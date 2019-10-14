@@ -28,12 +28,12 @@
         "url": "https://github.com/litecoinz-project/node-stratum-pool.git"
     },
     "dependencies": {
-        "equihashverify": "git+https://github.com/develnk/equihashverify.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
-        "bitgo-utxo-lib": "git+https://github.com/BitGo/bitgo-utxo-lib.git",
+        "bitcoinjs-lib-zcash": "git+https://github.com/develnk/bitcoinjs-lib.git",
+        "equihashverify": "git+https://github.com/develnk/equihashverify.git",
         "promise": "*"
     },
     "engines": {
